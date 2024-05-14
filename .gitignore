@@ -5,3 +5,5 @@ db.sqlite3
 manage.py
 
 setup/
+
+.env
